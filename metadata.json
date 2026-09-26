@@ -1,0 +1,6 @@
+{
+  "name": "SWALON - Smart Waste Logistics Malang",
+  "description": "Pusat kendali logistik persampahan cerdas Kota Malang dengan prediksi timbulan, prioritas pengangkutan, dan optimasi rute armada secara presisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
